@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Entering Login test case]]>
+    </line>
+    <line>
+      <![CDATA[Entering Total Activities testcase]]>
+    </line>
+    <line>
+      <![CDATA[Total Activity Entries is 66]]>
+    </line>
+    <line>
+      <![CDATA[Entering Sum of Loan Number testcase]]>
+    </line>
+    <line>
+      <![CDATA[Sum of Loan number is 2775300]]>
+    </line>
+    <line>
+      <![CDATA[Entering Activity Hashmap testcase]]>
+    </line>
+    <line>
+      <![CDATA[Size of Hashmap is 22]]>
+    </line>
+    <line>
+      <![CDATA[Entering Activity Hashmap testcase]]>
+    </line>
+    <line>
+      <![CDATA[Size of Even Loan number list is 30]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12705" started-at="2021-03-12T11:55:16 IST" finished-at="2021-03-12T11:55:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12705" started-at="2021-03-12T11:55:16 IST" finished-at="2021-03-12T11:55:29 IST">
+      <class name="suite.AssignmentSuite">
+        <test-method status="PASS" signature="buildUp()[pri:0, instance:suite.AssignmentSuite@4f063c0a]" name="buildUp" is-config="true" duration-ms="6653" started-at="2021-03-12T11:55:09 IST" finished-at="2021-03-12T11:55:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildUp -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:suite.AssignmentSuite@4f063c0a]" name="test1" duration-ms="476" started-at="2021-03-12T11:55:16 IST" finished-at="2021-03-12T11:55:17 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Login test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:suite.AssignmentSuite@4f063c0a]" name="test2" duration-ms="2992" started-at="2021-03-12T11:55:17 IST" finished-at="2021-03-12T11:55:20 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Total Activities testcase]]>
+            </line>
+            <line>
+              <![CDATA[Total Activity Entries is 66]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:suite.AssignmentSuite@4f063c0a]" name="test3" duration-ms="2421" started-at="2021-03-12T11:55:20 IST" finished-at="2021-03-12T11:55:22 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Sum of Loan Number testcase]]>
+            </line>
+            <line>
+              <![CDATA[Sum of Loan number is 2775300]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:suite.AssignmentSuite@4f063c0a]" name="test4" duration-ms="3985" started-at="2021-03-12T11:55:22 IST" finished-at="2021-03-12T11:55:26 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Activity Hashmap testcase]]>
+            </line>
+            <line>
+              <![CDATA[Size of Hashmap is 22]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:suite.AssignmentSuite@4f063c0a]" name="test5" duration-ms="2776" started-at="2021-03-12T11:55:26 IST" finished-at="2021-03-12T11:55:29 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Activity Hashmap testcase]]>
+            </line>
+            <line>
+              <![CDATA[Size of Even Loan number list is 30]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:suite.AssignmentSuite@4f063c0a]" name="tearDown" is-config="true" duration-ms="880" started-at="2021-03-12T11:55:29 IST" finished-at="2021-03-12T11:55:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- suite.AssignmentSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
